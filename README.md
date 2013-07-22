@@ -5,7 +5,7 @@ Basic Integration of Google Maps API v2 + Vaadin 7
 
 This is a sample project to demonstrate the integration of Google Maps API v2 and Vaadin 7.
 
-The maven file pom.xml is provided but you need to download two google libraries:
+The maven file pom.xml is provided but you need to <a href="https://code.google.com/p/gwt-google-apis/downloads/list">download</a> two google libraries:
 gwt-maps and gwt-user and install them on your maven repository:
 
 mvn install:install-file -Dfile=/path/to/gwt-maps.jar -DgroupId=com.google.gwt \
