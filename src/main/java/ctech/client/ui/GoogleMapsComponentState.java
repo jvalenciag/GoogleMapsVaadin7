@@ -1,4 +1,4 @@
-package abbas.client.ui;
+package ctech.client.ui;
 
 import com.google.gwt.maps.client.MapWidget;
 import com.google.gwt.maps.client.geom.LatLng;

@@ -13,7 +13,6 @@
 			<description>Vaadin UI to display</description>
 			<param-name>UI</param-name>
 			<param-value>ctech.MyUI</param-value>
-			<!-- <param-value>com.automatikly.ui.test.TestPage4</param-value> -->
 		</init-param>
 		<init-param>
 			<description>Application widgetset</description>

@@ -1,6 +1,5 @@
-package abbas.client.ui;
+package ctech.client.ui;
 
-import abbas.GoogleMapsComponent;
 
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.maps.client.MapWidget;
@@ -9,6 +8,8 @@ import com.google.gwt.user.client.ui.Widget;
 import com.vaadin.client.communication.StateChangeEvent;
 import com.vaadin.client.ui.AbstractComponentConnector;
 import com.vaadin.shared.ui.Connect;
+
+import ctech.GoogleMapsComponent;
 
 
 
