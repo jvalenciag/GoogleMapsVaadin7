@@ -12,7 +12,7 @@ mvn install:install-file -Dfile=/path/to/gwt-maps.jar -DgroupId=com.google.gwt \
     -DartifactId=gwt-maps -Dversion=1.1.1 -Dpackaging=jar
     
     
-After than, run the following to build your GWT component:
+After that, run the following to build your GWT component:
 
 mvn vaadin:compile -Dgwt.compiler.strict=true
 
